@@ -40,6 +40,10 @@ int main(){
 		days = 30;
 	}
 	cout <<year<<"年"<<month<<"月"<<"有"<<days<<"天"<<endl;
+	cout <<year<<"年"<<month<<"月"<<"有"<<days<<"天"<<endl;
+	cout <<year<<"年"<<month<<"月"<<"有"<<days<<"天"<<endl;
+	cout <<year<<"年"<<month<<"月"<<"有"<<days<<"天"<<endl;
+
 	system("pause");
 	return 0;
 }
